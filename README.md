@@ -1,5 +1,6 @@
-# weather-dashboard
-Server-Side APIs Challenge: Weather Dashboard
+# 06 Server-Side APIs: Weather Dashboard
+
+Weather-Dashboard
 
 ## User Story
 
